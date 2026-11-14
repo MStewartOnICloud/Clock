@@ -1,6 +1,6 @@
 ## LED-ring Clock with Wi-Fi and browser based front-end.
 
-This project is to build a digital clock with an "analogue" display based on a ring of 60 RGB leds. The clock will use varying colours to indicate the "hour" and "minute" "hands". There will be markers for the 5-minute positions. Some of the makers (at the 12, 3, 6, and 9 hour positions) will also be used to indicate the temperature as "too hot", "too cold" or "just right" by using different colours.
+This project is to build a digital clock with an "analogue" display based on a ring of 60 RGB leds. The clock will use varying colours to indicate the "hour" and "minute" "hands". There will be hour markers with the makers at the 12, 3, 6, and 9 hour positions will be used to indicate the temperature as "too hot", "too cold" or "just right" by using different colours.
 
 ### Hardware
 
